@@ -1,0 +1,10 @@
+python : Usage: streamlit run [OPTIONS] TARGET [ARGS]...
+At line:1 char:25
++ ... ATH = $PWD; python -m streamlit run app/frontend/streamlit_app.py 2>& ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Usage: streamli...ARGET [ARGS]...:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Try 'streamlit run --help' for help.
+
+Error: Invalid value: File does not exist: app/frontend/streamlit_app.py
