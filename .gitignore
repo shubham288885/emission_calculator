@@ -1,0 +1,27 @@
+# Virtual environments
+**/venv/
+**/env/
+**/__pycache__/
+
+# Environment files
+**/.env
+
+# Logs
+**/*.log
+
+# Temporary files
+**/temp_backup/
+**/.DS_Store
+**/.vscode/
+
+# Database files
+**/*.db
+**/*.sqlite3
+
+# Build artifacts
+**/dist/
+**/build/
+**/*.egg-info/
+
+# Jupyter notebook checkpoints
+**/.ipynb_checkpoints/ 
